@@ -2,7 +2,7 @@
 
 ## O que é este projeto?
 
-Este é um projeto de exemplo que demonstra o uso do Uber-go Fx para injeção de dependência em Go. O projeto implementa um simples serviço de usuário com uma arquitetura de camadas (domain, application, infrastructure) seguindo princípios de Clean Architecture.
+Este é um projeto de exemplo que demonstra o uso do Uber-go Fx para injeção de dependência em Go. O projeto implementa um simples serviço de usuário com uma arquitetura de camadas (domain, application, infrastructure).
 
 ## Requisitos
 
